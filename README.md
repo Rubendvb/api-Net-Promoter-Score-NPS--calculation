@@ -1,4 +1,4 @@
-![Logo do Projeto align="center"](https://github.com/Rubendvb/api-Net-Promoter-Score-NPS--calculation/blob/master/readme_images/logoApiNpspng.png)
+![Logo do Projeto](https://github.com/Rubendvb/api-Net-Promoter-Score-NPS--calculation/blob/master/readme_images/logoApiNpspng.png)
 
 # api-Net-Promoter-Score-NPS--calculation
 
